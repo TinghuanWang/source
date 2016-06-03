@@ -1,1 +1,5 @@
-test
+1.进入到项目文件目录
+2.Create a new repository,拷贝ssh
+3.git init
+4.git remote add origin git@github.com:TinghuanWang/pacifier.git(第一次origin)
+5.git push -u origin master
